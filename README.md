@@ -14,3 +14,9 @@ Edited with GUI
 
 
 what?
+
+It's so cold today.
+
+The weather forecast says it will snow on Tuesday and Wednesday.
+
+OMG
